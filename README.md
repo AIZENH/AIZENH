@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AIZENH
 - 👀 I’m interested in gaming,coding,designing
-- 🌱 I’m currently learning c++,python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning kali,bash
+- 💞️ I’m looking to collaborate on bash projects
 - 📫 How to reach me on instagram @g._t._m
 
 <!---
