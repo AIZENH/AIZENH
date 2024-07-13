@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AIZENH
 - 👀 I’m interested in gaming,coding,designing
-- 🌱 I’m currently learning kali,bash
+- 🌱 I’m currently learning kali,azure
 - 💞️ I’m looking to collaborate on bash projects
 - 📫 How to reach me on instagram @g._t._m
 
